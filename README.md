@@ -1,4 +1,4 @@
 # demorepo
 Learning git and github
 <br>
-Author-Neeti Kriplani
+Author-Neeti Kriplani(MIT Manipal)
